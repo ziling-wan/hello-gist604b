@@ -13,7 +13,7 @@ In this assignment, I learned:
 [Describe 1-2 challenges you faced and how you overcame them. Examples: creating folders in GitHub, understanding the two-repository workflow, writing markdown]
 - Writing markdowns: I still couldn't remeber all the markdown formats, I overcame it by frequently checking the markdwon rule.
 - Purpose of files: I learned the purpose of creating different files.
-- 
+  
 ## Connection to My GIS Career
 [Explain in 2-3 sentences how GitHub skills will help you in your GIS career. Think about portfolio building, collaboration, contributing to open source projects]
 - Open-source projects for research or educational purposes: It will help me to better understand if we would like to create a open-source platform for research or educational purposes, GitHub is necessary for repository of all the codes.
