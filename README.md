@@ -1,7 +1,6 @@
 # Hello GIST 604B
 
-**Student:** Ziling Wan
-
+**Student:** Ziling Wan  
 **Course:** GIST 604B - Open Source GIS  
 **Assignment:** M1A3 - GitHub Repository Management  
 **University of Arizona**
