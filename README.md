@@ -1,6 +1,7 @@
 # Hello GIST 604B
 
 **Student:** Ziling Wan  
+[Personal website](zilingwan.com)
 **Course:** GIST 604B - Open Source GIS  
 **Assignment:** M1A3 - GitHub Repository Management  
 **University of Arizona**
@@ -28,3 +29,5 @@ This repository demonstrates GitHub skills including:
 To run the hello script:
 ```bash
 python scripts/hello.py
+
+
